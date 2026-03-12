@@ -26,9 +26,11 @@ Built to showcase solid Object-Oriented Programming concepts in Java.
 ## How to Run
 1. Clone the repo:
    ```bash
+git clone https://github.com/ahmedabbas52233-a11y/virtual-pet-game-java.git
+
 
 Gameplay Example
-git clone https://github.com/ahmedabbas52233-a11y/virtual-pet-game-java.git
+
 
 ==========================================
      Welcome to Virtual Pet Simulator!     
